@@ -4,6 +4,7 @@ git add .
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/infe1/infepoo
+://github.com/mlvss/infe1.git
+
 
 git push -u origin master
